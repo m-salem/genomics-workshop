@@ -36,10 +36,6 @@ Interested in teaching these materials? We have an [onboarding video](https://ww
 >
 {: .prereq} 
 
-# Ibex Overview for hands-on session 
-
-more info. https://www.hpc.kaust.edu.sa/ibex 
-
 # Workshop Overview 
 
 | Lesson    | Overview |
@@ -61,5 +57,6 @@ instances. All the software and data used in the workshop are hosted on an Amazo
 If you want to run your own instance of the server used for this workshop, follow the directions in the [Setup](setup.html) tab. 
 
 # Added a comment by mshaikh786
-Hi. This is a change I have done. 
-This is a second line
+Hi. This is a change I have done.
+# Added a comment by m-salem
+Adding a URL https://datacarpentry.org/wrangling-genomics/ 
