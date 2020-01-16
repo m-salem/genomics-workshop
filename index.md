@@ -36,6 +36,10 @@ Interested in teaching these materials? We have an [onboarding video](https://ww
 >
 {: .prereq} 
 
+# Ibex Overview for hands-on session 
+
+more info. https://www.hpc.kaust.edu.sa/ibex 
+
 # Workshop Overview 
 
 | Lesson    | Overview |
@@ -59,6 +63,3 @@ If you want to run your own instance of the server used for this workshop, follo
 # Added a comment by mshaikh786
 Hi. This is a change I have done. 
 This is a second line
-
-# try simultaneous changes.
-this is Yoshinori.
